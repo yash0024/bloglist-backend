@@ -1,0 +1,9 @@
+DELETE  http://localhost:3003/api/blogs/627def3c77aa1b1a15f7ea4d
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Illhc2giLCJpZCI6IjYyN2QzNWE1N2M4MjE0NjFlNjg0NGNkZiIsImlhdCI6MTY1MjM3Mjk3Nn0.bgG5xqGdNnD0SWMPUXUkDVIUkZcUb1uj8x0jZlARUHU
+
+{
+    "title": "Yash's blog",
+    "url": "yash.com",
+    "likes": 48
+}
