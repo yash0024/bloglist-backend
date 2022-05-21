@@ -4,7 +4,6 @@ Features:
 - Login to the platform
 - Add new links to blogs on the internet
 - Like blogs
-- Delete blogs that you have created
 - Add comments to blogs
 
 Technologies used:
