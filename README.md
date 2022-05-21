@@ -10,8 +10,8 @@ Technologies used:
 - React and Bootstrap for the frontend
 - Axios library to make various requests to the backend
 - Express.js and mongoose for the backend, which is connected to the MongoDB database
-- bcrypt for password validation
-- jest to test both the frontend and backend
+- bcrypt to convert the paswords into passwordhash and jsoonwebtoken for token based authentication
+- jest to test the frontend and supertest to test the backend
 - cypress for end-to-end testing
 - morgan as the choice of middleware
 
